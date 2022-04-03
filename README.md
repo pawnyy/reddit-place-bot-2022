@@ -1,21 +1,3 @@
-# Reddit Place Script 2022
-
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-
-## About
-
-This is a script to draw an image onto r/place (<https://www.reddit.com/r/place/>).
-
-## Features
-
-- Support for multiple accounts
-- Determines the cooldown time remaining for each account
-- Detects existing matching pixels on the r/place map and skips them
-- Automatically converts colors to the r/place color palette
-- Easy(ish) to read output with colors
-
 ## Requirements
 
 - [Latest Version of Python 3](https://www.python.org/downloads/)
